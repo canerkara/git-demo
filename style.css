@@ -1,0 +1,29 @@
+body {
+  padding-top:100px;
+}
+
+.gitLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.gitLogo img {
+  height: 100px;
+}
+
+.solutions {
+  padding: 20px;
+  border: 1px solid #ccc;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  background: #f0f0f0;
+}
+
+.solutions img{
+  height: 120px;
+}
